@@ -18,6 +18,9 @@ elseif ($page_name=='collections.html') {
 elseif ($page_name=='blog.html') {
 	include $browser_t.'/blog.html';
 	}
+elseif ($page_name=='contact.html') {
+	include $browser_t.'/contact.html';
+	}
 elseif ($page_name=='contact-post.html') {
 	include 'app/contact.php';
 	}
