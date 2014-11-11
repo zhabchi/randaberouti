@@ -12,8 +12,8 @@
 <file name="dom3.jpg" server="50.62.168.3//httpdocs/" local="130590564733586313" remote="130578162000000000" Dst="1" />
 <file name="facebook.png" server="50.62.168.3//httpdocs/" local="130590564727252116" remote="130578162000000000" Dst="1" />
 <file name="gird-img.jpg" server="50.62.168.3//httpdocs/" local="130590564749516903" remote="130578918600000000" Dst="1" />
-<file name="gird-img1.jpg" server="50.62.168.3//httpdocs/" local="130590564762875781" remote="130578921600000000" Dst="1" />
-<file name="gird-img2.jpg" server="50.62.168.3//httpdocs/" local="130590564772922466" remote="130578928800000000" Dst="1" />
+<file name="gird-img1.jpg" server="50.62.168.3//httpdocs/" local="130601741470645567" remote="130601418000000000" Dst="1" />
+<file name="gird-img2.jpg" server="50.62.168.3//httpdocs/" local="130601742111320352" remote="130601418000000000" Dst="1" />
 <file name="insta.png" server="50.62.168.3//httpdocs/" local="130590564762545553" remote="130578947400000000" Dst="1" />
 <file name="line2.png" server="50.62.168.3//httpdocs/" local="130590564772932451" remote="130578162000000000" Dst="1" />
 <file name="logo.png" server="50.62.168.3//httpdocs/" local="130590564783429448" remote="130587933600000000" Dst="1" />
@@ -33,4 +33,6 @@
 <file name="video.png" server="50.62.168.3//httpdocs/" local="130590564874990468" remote="130578162000000000" Dst="1" />
 <file name="logo.png" server="50.62.168.3" local="3497194548" remote="318763443890059872" Dst="-1" />
 <file name="logo.png" server="50.62.168.3/httpdocs/" local="3497196921" remote="318763443890061072" Dst="-1" />
+<file name="4.jpg" server="50.62.168.3//httpdocs/" local="130601729241061839" remote="130601404800000000" Dst="1" />
+<file name="5.jpg" server="50.62.168.3//httpdocs/" local="130601736145889611" remote="130601412000000000" Dst="1" />
 </dwsync>
