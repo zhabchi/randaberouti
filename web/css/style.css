@@ -34,6 +34,15 @@ img{max-width:100%;}
 .logo{
 	float:left;
 }
+
+.logo a
+{
+	font-family: 'Average Sans', sans-serif;
+	font-size:3em;
+	color: rgb(162, 162, 162);
+	text-transform: uppercase;
+}
+
 .top-nav{
 	float:right;
 	margin-top: 22px;
@@ -243,6 +252,15 @@ img{max-width:100%;}
 	float:left;
 	margin-top: 2px;
 }
+
+.sub-footer-left a
+{
+	font-family: 'Average Sans', sans-serif;
+	font-size:1.5em;
+	color: rgb(162, 162, 162);
+	text-transform: uppercase;
+}
+
 .sub-footer-right{
 	float:right;
 }
